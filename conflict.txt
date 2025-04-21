@@ -1,2 +1,2 @@
-This is the first line
-This is the seconf line
+This is the first line of code
+This is the second line
